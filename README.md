@@ -22,10 +22,10 @@ A self-built alternative to Spotify Wrapped using the Spotify Web API and Python
 
 ## Charts
 ![Top Artists](charts/top_artists.png)
-![Top Tracks](charts/top_tracks.png)
 ![Taste Evolution](charts/taste_evolution.png)
 ![Most Saved Artists](charts/top_artists_saved.png)
 ![Library Growth](charts/library_growth.png)
+![My Sprotify Wrapped](charts/summary_card.png)
 
 ## Setup
 1. Create a Spotify Developer app at developer.spotify.com
