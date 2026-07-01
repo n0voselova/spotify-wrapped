@@ -10,7 +10,7 @@ A self-built alternative to Spotify Wrapped using the Spotify Web API and Python
 - Visualises findings with a Spotify-inspired dark theme
 
 ## Tech stack
-- Python, Jupyter Notebook
+- Python (Jupyter Notebook via VS Code)
 - Spotipy (Spotify API wrapper)
 - Pandas, Matplotlib, Seaborn
 
