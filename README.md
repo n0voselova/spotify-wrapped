@@ -17,7 +17,6 @@ A self-built alternative to Spotify Wrapped using the Spotify Web API and Python
 ## Key findings
 - Olivia Dean is my all-time #1 artist
 - Theodora is my fastest rising artist in recent weeks
-- PLK is my most consistent long-term favourite
 - My library has grown steadily since 2020 reaching 2,571 saved tracks
 
 ## Charts
